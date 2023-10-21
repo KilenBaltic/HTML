@@ -83,7 +83,7 @@ body {
   font-weight: 400;
   color: #666;
   background: #fff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 22px;
 }
 p {
@@ -225,6 +225,17 @@ h5 + p {
 hr {
   background: none;
   border-top: 1px solid #e5e5e5;
+}
+.custom-link {
+  color: rgb(189, 189, 189);
+  font-size: 13px;
+  font-weight: 500;
+  margin: 13px;
+}
+
+/* Hover effect for the specific link */
+.custom-link:hover {
+  color: red;
 }
 blockquote {
   padding: 0;
@@ -1267,10 +1278,12 @@ body.preloader #ct_preloader {
   position: absolute;
   width: 100%;
   height: 100%;
+  z-index: -1; 
 }
 .octagon img {
   width: 80%;
   height: 80%;
+  z-index: 1; 
 }
 .octagon:hover img {
   opacity: 0.2; /* Sets the opacity to 50% */
