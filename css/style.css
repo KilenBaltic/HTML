@@ -45,23 +45,20 @@ ol {
 /* ==================== */
 /* ====== FONTS ======= */
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../css/font/OpenSans-Regular-webfont.eot');
-  src: url('../css/font/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('../css/font/OpenSans-Regular-webfont.woff') format('woff'), url('../css/font/OpenSans-Regular-webfont.ttf') format('truetype'), url('../css/font/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+  font-family: 'Roboto';
+  src: url('../css/font/Roboto-Light.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../css/font/OpenSans-Semibold-webfont.eot');
-  src: url('../css/font/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'), url('../css/font/OpenSans-Semibold-webfont.woff') format('woff'), url('../css/font/OpenSans-Semibold-webfont.ttf') format('truetype'), url('../css/font/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
-  font-weight: 600;
+  font-family: 'Roboto';
+  src: url('../css/font/Roboto-Regular.ttf') format('truetype');
+  font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sans';
-  src: url('../css/font/OpenSans-Bold-webfont.eot');
-  src: url('../css/font/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('../css/font/OpenSans-Bold-webfont.woff') format('woff'), url('../css/font/OpenSans-Bold-webfont.ttf') format('truetype'), url('../css/font/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+  font-family: 'Roboto';
+  src: url('../css/font/Roboto-Medium.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
@@ -82,7 +79,7 @@ a:focus {
   outline: none;
 }
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: #666;
   background: #fff;
@@ -125,7 +122,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   color: #333;
   margin: 0 0 20px 0;
