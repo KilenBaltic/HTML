@@ -321,7 +321,7 @@
     </div>
 
     <div class="text-center">
-      <a href="index.html" class="btn btn-default animated" data-fx="fadeInUp">Visi projekti</a>
+      <a href="index.php" class="btn btn-default animated" data-fx="fadeInUp">Visi projekti</a>
     </div>
   </div>
 </section>
@@ -341,7 +341,7 @@
               Katrs elements, no sendviča sienām līdz pamatiem, tiek rūpīgi izgatavots un pārbaudīts. Mēs esam apņēmīgi uzlabot kvalitātes kontroles soļus un nodrošināt klientu apmierinātību.</p> 
              <p> Mēs ticam, ka ieguldījums kvalitātē ir ieguldījums ilgtspējīgā nākotnē.</p>
             <img src="images/kilenbaltic/ce_logos.png" alt="CE and NorthCert Logos" class="certification-logos" style="width: 250px; display: block; margin-bottom: 20px;">
-            <a href="02-pluto-about.html" class="btn btn-default">Sertifikāti</a>
+            <a href="#" class="btn btn-default">Sertifikāti</a>
           </div>
         </div>
         <div class="col-md-6 col-md-pull-6">

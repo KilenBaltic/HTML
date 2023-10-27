@@ -51,7 +51,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html"><img src="images/kilenbaltic/Optimized/Kilen_Baltic_logo-.jpg" alt="Kilen Baltic logo" style="height:70px;"></a>
+      <a class="navbar-brand" href="index.php"><img src="images/kilenbaltic/Optimized/Kilen_Baltic_logo-.jpg" alt="Kilen Baltic logo" style="height:70px;"></a>
     </div>
     <div class="navbar-collapse collapse">
       <form class="pull-right header-search" role="form" style="display:none;">
@@ -66,28 +66,28 @@
       </form>
       <a href="#" id="showHeaderSearch" class="hidden-xs"><i class="fa fa-search"></i></a>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.html">SĀKUMS</a></li>
+        <li><a href="index.php">SĀKUMS</a></li>
         <li class="dropdown">
-          <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-target="#">PAR MUMS</a>
+          <a href="index.php" class="dropdown-toggle" data-toggle="dropdown" data-target="#">PAR MUMS</a>
           <ul class="dropdown-menu">
-            <li><a href="index.html">Par uzņēmumu</a></li>
-            <li><a href="index.html">Izstrādājumi</a></li>
-            <li><a href="index.html">Sertifikāti</a></li>
-            <li><a href="index.html">Vakances</a></li>
-            <li><a href="index.html">Dizaina nodaļa</a></li>
-            <li><a href="index.html">Nekustamo īpašumu projekti</a></li>
+            <li><a href="index.php">Par uzņēmumu</a></li>
+            <li><a href="index.php">Izstrādājumi</a></li>
+            <li><a href="index.php">Sertifikāti</a></li>
+            <li><a href="index.php">Vakances</a></li>
+            <li><a href="index.php">Dizaina nodaļa</a></li>
+            <li><a href="index.php">Nekustamo īpašumu projekti</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="index.html" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Produkcija</a>
+          <a href="index.php" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Produkcija</a>
           <ul class="dropdown-menu">
-            <li><a href="index.html">Portfolio</a></li>
-            <li><a href="index.html">Standarta produkti</a></li>
-            <li><a href="index.html">Sertifikāti</a></li>
-            <li><a href="index.html">Cenas</a></li>
+            <li><a href="index.php">Portfolio</a></li>
+            <li><a href="index.php">Standarta produkti</a></li>
+            <li><a href="index.php">Sertifikāti</a></li>
+            <li><a href="index.php">Cenas</a></li>
           </ul>
         </li>
-        <li><a href="index.html">Blogs</a></li>
+        <li><a href="index.php">Blogs</a></li>
         <li><a href="07-pluto-contact.html">KONTAKTI</a></li>
         <li><a href="07-pluto-contact.html" style="color:rgb(248, 126, 126);" >EN</a></li>
         <li><a href="07-pluto-contact.html" style="color:rgb(248, 126, 126);" >SE</a></li>
