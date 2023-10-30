@@ -88,9 +88,9 @@
           </ul>
         </li>
         <li><a href="index.php">Blogs</a></li>
-        <li><a href="07-pluto-contact.html">KONTAKTI</a></li>
-        <li><a href="07-pluto-contact.html" style="color:rgb(248, 126, 126);" >EN</a></li>
-        <li><a href="07-pluto-contact.html" style="color:rgb(248, 126, 126);" >SE</a></li>
+        <li><a href="07-pluto-contact.php">KONTAKTI</a></li>
+        <li><a href="07-pluto-contact.php" style="color:rgb(248, 126, 126);" >EN</a></li>
+        <li><a href="07-pluto-contact.php" style="color:rgb(248, 126, 126);" >SE</a></li>
       </ul>
     </div>
   </div>
