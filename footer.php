@@ -37,7 +37,7 @@
       <aside class="col-md-3 widget">
         <h1 class="widget-title">KONTAKTI</h1>
 
-        <a href="mailto:info@kilenbaltic.lv" class="larger">info@kilenbaltic.lv</a>
+        <a href="mailto:info@kilenbaltic.com" class="larger">info@kilenbaltic.com</a>
 
         <p>
           Paleju iela 8, Ikšķile, Ogres nov.<br>
