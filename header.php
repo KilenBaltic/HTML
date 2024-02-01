@@ -72,7 +72,7 @@
           <ul class="dropdown-menu">
             <li><a href="index.php">Par uzņēmumu</a></li>
             <li><a href="index.php">Izstrādājumi</a></li>
-            <li><a href="index.php">Sertifikāti</a></li>
+            <li><a href="sertifikati.php">Sertifikāti</a></li>
             <li><a href="index.php">Vakances</a></li>
             <li><a href="index.php">Dizaina nodaļa</a></li>
             <li><a href="index.php">Nekustamo īpašumu projekti</a></li>
@@ -83,7 +83,7 @@
           <ul class="dropdown-menu">
             <li><a href="index.php">Portfolio</a></li>
             <li><a href="index.php">Standarta produkti</a></li>
-            <li><a href="index.php">Sertifikāti</a></li>
+            <li><a href="sertifikati.php">Sertifikāti</a></li>
             <li><a href="index.php">Cenas</a></li>
           </ul>
         </li>
