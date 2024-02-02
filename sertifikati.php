@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<section class="content-area brightText" data-bg="images/content/about-v2-title-bg.jpg" data-topspace="70" data-btmspace="50">
+<section class="content-area brightText" data-bg="images/content/about-v2-title-bg.jpg" data-topspace="10" data-btmspace="10">
   <div class="container">
 
     <div class="flexslider std-slider center-controls" data-animation="fade" data-loop="true" data-animspeed="600" data-dircontrols="true" data-controls="true">
@@ -8,7 +8,7 @@
         <li>
           <blockquote class="huge text-center">
             <p>
-              Mūsu produkcija ir CE sertificētā atbilstoši <br> Eiropas EN uz Zviedrijas SS nacionālajiem standartiem
+            Mūsu produkcija ir CE sertificēta atbilstoši  <br> Eiropas EN un Zviedrijas SS nacionālajiem standartiem.
             </p>
           </blockquote>
         </li>
@@ -23,20 +23,20 @@
     <header class="page-header text-center">
       <h1 class="page-title">Sertifikāti</h1>
 
-      <h2>NordCert AB ir sertificējis Kilen Baltic ražotni, lai mūsu produkti būtu CE un BBC marķēti</h2>
+      <h2>NordCert AB ir sertificējis Kilen Baltic ražotni, lai mūsu produkti varētu tikt marķēti ar CE un BBC zīmēm.</h2>
     </header>
 
     <div class="row">
   <div class="col-md-4 col-md-push-2">
     <!-- Existing text content -->
-    <p>Sertifikāts apliecina EN 13369:2018 un Zviedrijas nacionālo standartu SS 137003:2021 un SS 137005:2023 ievērošanu.</p>
+    <p>Sertifikāts apliecina atbilstību standartiem EN 13369:2018 un Zviedrijas nacionālajiem standartiem SS 137003:2021 un SS 137005:2023.</p>
     
     <!-- Image of the first certificate -->
     <img src="images/kilenbaltic/Nordcert_bbc.jpg" alt="EN 13369:2018 BBC sertifikāts" style="width: 100%; height: auto;">
   </div>
   <div class="col-md-4 col-md-push-2">
     <!-- Existing text content -->
-    <p>1505-CPR-CBLV14 sertifikāts apliecina, ka visi noteikumi attiecībā uz šo novērtēšanu un veiktspējas atbilstības pārbaudi, kas aprakstīti standartu ZA pielikumā.</p>
+    <p>Sertifikāts 1505-CPR-CBLV14 apliecina, ka visi noteikumi attiecībā uz novērtēšanu un veiktspējas atbilstības pārbaudi, kas aprakstīti standartu ZA pielikumā, ir ievēroti.</p>
     
     <!-- Image of the second certificate -->
     <img src="images/kilenbaltic/Nordcert_CPR.jpg" alt="Nordecert CPR un CE sertifikāts" style="width: 100%; height: auto;">
@@ -59,22 +59,22 @@
           <h2>Atbilstība standartiem</h2>
 
           <p>
-            Kilen Baltic ražotne ir CE un BCC sertificēta atbilstoši sekojošiem standartiem
+          Kilen Baltic ražotne ir CE un BCC sertificēta atbilstoši sekojošiem standartiem:
           </p>
         </header>
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="iconBox type4">
           <div class="media">
-            <a class="pull-left" href="#">
+            <a class="pull-left" >
               <i class="fa fa-star"></i>
             </a>
 
             <div class="media-body">
-              <h4 class="media-heading"><a href="#">EN 13369:2018</a></h4>
+              <h4 class="media-heading"><a >EN 13369:2018</a></h4>
 
               <p>
-              Kopīgie noteikumi saliekamajiem betona izstrādājumiem EN 13369 standarts ir Eiropas standarts, kas attiecas uz betona ražošanu, īpašībām un izmantošanu. Šis standarts nosaka vispārējās prasības betona, armētā betona un priekšsprieguma betona konstrukciju elementiem, kas ražoti rūpnīcās vai būvlaukumā. Tā ietver noteikumus par materiāliem, ražošanas procesu, kvalitātes kontroli, produktu veiktspēju un atbilstību.
+              Kopīgie noteikumi saliekamajiem betona izstrādājumiem. EN 13369 ir Eiropas standarts, kas attiecas uz betona ražošanu, īpašībām un izmantošanu. Šis standarts nosaka vispārējās prasības betona, armētā betona un priekšsprieguma betona konstrukciju elementiem, kas ražoti rūpnīcās vai būvlaukumā. Tas ietver noteikumus par materiāliem, ražošanas procesu, kvalitātes kontroli, produktu veiktspēju un atbilstību.
               </p>
             </div>
           </div>
@@ -85,7 +85,7 @@
         <div class="iconBox type4">
           <div class="media">
             <a class="pull-left" href="#">
-              <i class="fa fa-cog"></i>
+              <i class="fa fa-star"></i>
             </a>
 
             <div class="media-body">
@@ -100,7 +100,7 @@
         <!-- / iconBox -->
       </div>
       <div class="col-md-3 col-sm-6">
-        <div class="iconBox type2">
+        <div class="iconBox type4">
           <div class="media">
             <a class="pull-left" href="#">
             <img src="images/kilenbaltic/icons/icon-trapa.ico" alt="Prefab starecases Icon">
@@ -110,7 +110,7 @@
               <h4 class="media-heading"><a href="#">EN 14843:2007</a></h4>
 
               <p>
-                Saliekamā dzelzsbetona izstrādājumi - kāpnes. EN 14843 standarts attiecas uz betona kāpņu sistēmām. Šis standarts definē prasības priekšsprieguma betona kāpnēm, tostarp materiālu specifikācijas, ražošanas procesus, kvalitātes kontroli, testēšanu un galīgā produkta veiktspēju. Standarts ietver arī drošības prasības un veiktspējas kritērijus, lai nodrošinātu, ka kāpnes ir drošas un uzticamas lietošanā.
+              EN 14843 standarts attiecas uz betona kāpņu sistēmām. Šis standarts definē prasības priekšsprieguma betona kāpnēm, tostarp materiālu specifikācijas, ražošanas procesus, kvalitātes kontroli, testēšanu un galīgā produkta veiktspēju. Standarts ietver arī drošības prasības un veiktspējas kritērijus, lai nodrošinātu, ka kāpnes ir drošas un uzticamas lietošanā.
               </p>
             </div>
           </div>
@@ -133,14 +133,14 @@
         <div class="iconBox type4">
           <div class="media">
             <a class="pull-left" href="#">
-              <i class="fa fa-star"></i>
+            <img src="images/kilenbaltic/icons/icon-fundament.ico" alt="Prefab fundament Icon">
             </a>
 
             <div class="media-body">
-              <h4 class="media-heading"><a href="#">EN 13369:2018</a></h4>
+              <h4 class="media-heading"><a href="#">EN 14991:2007</a></h4>
 
               <p>
-              Kopīgie noteikumi saliekamajiem betona izstrādājumiem EN 13369 standarts ir Eiropas standarts, kas attiecas uz betona ražošanu, īpašībām un izmantošanu. Šis standarts nosaka vispārējās prasības betona, armētā betona un priekšsprieguma betona konstrukciju elementiem, kas ražoti rūpnīcās vai būvlaukumā. Tā ietver noteikumus par materiāliem, ražošanas procesu, kvalitātes kontroli, produktu veiktspēju un atbilstību.
+              Saliekamie betona izstrādājumi - Pamatelementi. EN 14991 ir Eiropas standarts, kas nosaka prasības betona pamatelementu, piemēram, pamatu plātņu un bloku, ražošanai. Tas ietver materiālu izvēli, ražošanas procesu, kvalitātes kontroli un gala produkta veiktspēju, nodrošinot izstrādājumu atbilstību un drošību būvkonstrukcijās.
               </p>
             </div>
           </div>
@@ -151,14 +151,14 @@
         <div class="iconBox type4">
           <div class="media">
             <a class="pull-left" href="#">
-              <i class="fa fa-cog"></i>
+            <img src="images/kilenbaltic/icons/icon-wall.ico" alt="Prefab wall Icon">
             </a>
 
             <div class="media-body">
-              <h4 class="media-heading"><a href="#">EN 13670:2010</a></h4>
+              <h4 class="media-heading"><a href="#">EN 14992:2007 + A1:2012</a></h4>
 
               <p>
-              EN 13670 ir Eiropas standarts, kas nosaka prasības un norādījumus betona konstrukciju būvniecībai. Tas aptver visus būvdarbu posmus no projektēšanas līdz konstrukcijas nodošanai ekspluatācijā, ietverot materiālu sagatavošanu, betonēšanu, pēcapstrādi un konstrukcijas kvalitātes kontroli.
+              Saliekamie betona izstrādājumi - Sienas elementi. Šis standarts, papildināts ar grozījumu A1:2012, nosaka prasības betona sienas elementu, piemēram, sendviča sienām, masīvajām sienām un pārklājumiem, ražošanai. Tas ietver materiālu specifikācijas, ražošanas procesus, kvalitātes kontroli un gala produkta veiktspējas prasības, lai nodrošinātu to atbilstību būvniecības prasībām un drošības standartiem.
               </p>
             </div>
           </div>
@@ -169,21 +169,38 @@
         <div class="iconBox type4">
           <div class="media">
             <a class="pull-left" href="#">
-              <i class="fa fa-thumbs-up"></i>
+            <img src="images/kilenbaltic/icons/icon-column.ico" alt="Prefab column Icon">
             </a>
 
             <div class="media-body">
-              <h4 class="media-heading"><a href="#">EN 14843:2007</a></h4>
+              <h4 class="media-heading"><a href="#">EN 13225:2013</a></h4>
 
               <p>
-                Saliekamā dzelzsbetona izstrādājumi - kāpnes. EN 14843 standarts attiecas uz betona kāpņu sistēmām. Šis standarts definē prasības priekšsprieguma betona kāpnēm, tostarp materiālu specifikācijas, ražošanas procesus, kvalitātes kontroli, testēšanu un galīgā produkta veiktspēju. Standarts ietver arī drošības prasības un veiktspējas kritērijus, lai nodrošinātu, ka kāpnes ir drošas un uzticamas lietošanā.
+              Saliekamie betona izstrādājumi - Lineārie elementi. EN 13225:2013 ir Eiropas standarts, kas nosaka prasības lineāru betona izstrādājumu, piemēram, sijām, balstiem un kolonnām, ražošanai. Šis standarts ietver materiālu izvēles, ražošanas procesu, kvalitātes kontroles un gala produkta veiktspējas kritērijus, lai nodrošinātu, ka šie būvelementi atbilst drošības un efektivitātes standartiem. Standarts ir svarīgs, lai garantētu lineāro betona elementu atbilstību būvniecības prasībām un drošībai.
               </p>
             </div>
           </div>
         </div>
         <!-- / iconBox -->
       </div>
+      <div class="col-md-3 col-sm-6">
+        <div class="iconBox type4">
+          <div class="media">
+            <a class="pull-left" href="#">
+            <img src="images/kilenbaltic/icons/icon-floor.ico" alt="Prefab floor Icon">
+            </a>
 
+            <div class="media-body">
+              <h4 class="media-heading"><a href="#">EN 13747:2005 + A2:2010</a></h4>
+
+              <p>
+              Saliekamie betona izstrādājumi - Grīdas plātnes. Šis standarts, papildināts ar grozījumu A2:2010, nosaka prasības betona grīdas plātņu, tostarp Filigran tipa plātņu, ražošanai. Tas aptver materiālu specifikācijas, ražošanas procesus, kvalitātes kontroli un veiktspējas prasības, lai nodrošinātu, ka grīdas plātnes atbilst drošības, izturības un kvalitātes standartiem. Standarts ir svarīgs, lai garantētu, ka šīs grīdas plātnes ir piemērotas dažādu veidu būvprojektiem, ieskaitot dzīvojamo un komerciālo ēku būvniecību.
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- / iconBox -->
+      </div>
 
     </div>
     <!-- / row -->
@@ -191,25 +208,21 @@
   </div>
 </section>
 
-<section class="content-area bg1">
+<section class="content-area bg1" data-btmspace="0">
   <div class="container">
     <header class="page-header text-center">
-      <h1 class="page-title">Papildus standartiem</h1>
+      <h1 class="page-title">Kvalitātes kontrole</h1>
 
-      <h2>Kvalitātes kontrole</h2>
+      <h2>Moderna ražošanas sistēma un uzlabota kvalitātes kontrole</h2>
     </header>
-  </div>
     <div class="promoBox">
       <div class="row">
         <div class="col-md-6 col-md-push-6">
           <div class="inner animated" data-fx="fadeInLeft">
-            <h2>Moderna ražošanas sistēma un uzlabota kvalitātes kontrole</h2>
-
+           
             <p>
-              Kilen Baltic ir CE un NordCert AB sertificēts uzņēmums ar modernu ražošanas sistēmu.</p>
-             <p>Mūsu betona izstrādājumi atbilst EN standartiem, nodrošinot augstāko kvalitāti. Efektivitāte un precizitāte ir mūsu ražošanas pamatprincipi. 
-              Katrs elements, no sendviča sienām līdz pamatiem, tiek rūpīgi izgatavots un pārbaudīts. Mēs esam apņēmīgi uzlabot kvalitātes kontroles soļus un nodrošināt klientu apmierinātību.</p> 
-             <p> Mēs ticam, ka ieguldījums kvalitātē ir ieguldījums ilgtspējīgā nākotnē.</p>
+           Kilen Baltic lepojas ar savu moderno ražošanas sistēmu, kas ir izstrādāta, lai nodrošinātu visu procesu precīzu izsekojamību. Mēs stingri sekojam līdzi augstākajām kvalitātes kontroles prasībām, nodrošinot, ka katrs izstrādājums atbilst mūsu augstajiem standartiem. Mūsu kvalitātes kontroles procesā ietilpst rūpīga izstrādājumu pārbaude un fotofiksācija, lai dokumentētu un apstiprinātu izstrādājumu atbilstību prasītajām specifikācijām. Šis apņēmīgais pieejas veids kvalitātes nodrošināšanā ļauj mums garantēt augstāko izstrādājumu kvalitāti un klientu uzticību.
+            </p>
             <img src="images/kilenbaltic/ce_logos.png" alt="CE and NorthCert Logos" class="certification-logos" style="width: 250px; display: block; margin-bottom: 20px;">
             
           </div>
@@ -218,6 +231,8 @@
           <img src="images/kilenbaltic/Optimized/Razotne/razosanas-sistema.png" alt="Kilen Baltic razošanas sistēma" class="animated" data-fx="fadeInLeft" style="height: 430px;">
         </div>
       </div>
+      </div>
+      
 </section>
 <!-- / section -->
 

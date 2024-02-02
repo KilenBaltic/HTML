@@ -1145,20 +1145,22 @@ body.preloader #ct_preloader {
 .iconBox.type4 .media > .pull-left {
   transition: all 0.3s ease;
   transition: all 0.3s ease ease-in-out 0.2s;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   float: none !important;
   width: 70px;
   height: 70px;
-  background: #e90016;
+  background: #dfdfdf;
   border-radius: 1px;
   margin: 0 auto;
   position: relative;
   top: -20px;
 }
 .iconBox.type4 .media > .pull-left i {
-  color: #fff;
+  color: #e90016;
   font-size: 18px;
-  margin-top: 26px;
+  margin-top: 0px;
 }
 .iconBox.type4 .media > .pull-left:hover {
   transform: scale(1.2);
@@ -1170,6 +1172,10 @@ body.preloader #ct_preloader {
 }
 .iconBox.type4 .media-heading {
   margin: -5px 0 8px 0;
+}
+.iconBox.type4 .media > .pull-left img {
+  max-width: 70%; /* Adjust based on your design needs */
+  max-height: 70%; /* Adjust based on your design needs */
 }
 .octagon {
   position: relative;
